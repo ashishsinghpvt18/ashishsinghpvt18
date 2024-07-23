@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Krishna
+- 👋 Hi, I’m Ashish Singh
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning python
 <!---
